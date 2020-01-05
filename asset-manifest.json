@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/foodinfo/static/css/main.b4637bd2.chunk.css",
+    "main.js": "/foodinfo/static/js/main.ba6af3c0.chunk.js",
+    "main.js.map": "/foodinfo/static/js/main.ba6af3c0.chunk.js.map",
+    "runtime-main.js": "/foodinfo/static/js/runtime-main.4c0f7831.js",
+    "runtime-main.js.map": "/foodinfo/static/js/runtime-main.4c0f7831.js.map",
+    "static/js/2.9e3545e0.chunk.js": "/foodinfo/static/js/2.9e3545e0.chunk.js",
+    "static/js/2.9e3545e0.chunk.js.map": "/foodinfo/static/js/2.9e3545e0.chunk.js.map",
+    "index.html": "/foodinfo/index.html",
+    "precache-manifest.cbd25700adbd1c616a26cf347fb05314.js": "/foodinfo/precache-manifest.cbd25700adbd1c616a26cf347fb05314.js",
+    "service-worker.js": "/foodinfo/service-worker.js",
+    "static/css/main.b4637bd2.chunk.css.map": "/foodinfo/static/css/main.b4637bd2.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c0f7831.js",
+    "static/js/2.9e3545e0.chunk.js",
+    "static/css/main.b4637bd2.chunk.css",
+    "static/js/main.ba6af3c0.chunk.js"
+  ]
+}
